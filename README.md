@@ -1,1 +1,1 @@
-# utilit-rios
+# Repositório contendo arquivos úteis.
